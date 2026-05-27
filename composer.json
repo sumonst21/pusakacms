@@ -8,8 +8,8 @@
 	"license": "MIT",
 	"require": {
         "pyrocms/lex": "2.3.*",
-        "erusev/parsedown": "1.6.*",
-        "symfony/yaml": "3.3.*",
+        "erusev/parsedown": "1.7.*",
+        "symfony/yaml": "5.4.*",
 		"nyankod/jsonfiledb": "0.3.*"
 	}
 }
